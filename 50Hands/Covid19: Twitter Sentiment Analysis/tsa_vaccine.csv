@@ -1,0 +1,34 @@
+index	country	polarity_score	medicine	date
+0	0	usa	-0.223182	hcq	2020-07-01
+1	1	usa	0.043177	hydrochloroquine	2020-07-01
+2	2	usa	-0.021019	chloroquine	2020-07-01
+3	3	usa	0.128395	azithromycin	2020-07-01
+4	4	usa	0.345187	nitric oxide	2020-07-01
+5	5	usa	0.000000	interferon beta-1a	2020-07-01
+6	6	usa	0.000000	LNP-mRNAs	2020-07-01
+7	7	usa	0.006982	remdesivir	2020-07-01
+8	8	usa	-0.027980	lopinavir	2020-07-01
+9	9	usa	-0.016159	ritonavir	2020-07-01
+10	10	usa	0.156455	plasma therapy	2020-07-01
+11	11	india	-0.269179	hcq	2020-07-01
+12	12	india	0.278687	hydrochloroquine	2020-07-01
+13	13	india	-0.071881	chloroquine	2020-07-01
+14	14	india	0.111435	azithromycin	2020-07-01
+15	15	india	0.268061	nitric oxide	2020-07-01
+16	16	india	0.000000	interferon beta-1a	2020-07-01
+17	17	india	0.000000	LNP-mRNAs	2020-07-01
+18	18	india	0.357374	remdesivir	2020-07-01
+19	19	india	0.110129	lopinavir	2020-07-01
+20	20	india	0.106481	ritonavir	2020-07-01
+21	21	india	0.235712	plasma therapy	2020-07-01
+22	22	canada	0.131068	hcq	2020-07-01
+23	23	canada	0.000000	hydrochloroquine	2020-07-01
+24	24	canada	-0.000896	chloroquine	2020-07-01
+25	25	canada	-0.213300	azithromycin	2020-07-01
+26	26	canada	0.033175	nitric oxide	2020-07-01
+27	27	canada	0.000000	interferon beta-1a	2020-07-01
+28	28	canada	0.000000	LNP-mRNAs	2020-07-01
+29	29	canada	0.040469	remdesivir	2020-07-01
+30	30	canada	0.000000	lopinavir	2020-07-01
+31	31	canada	0.000000	ritonavir	2020-07-01
+32	32	canada	-0.108725	plasma therapy	2020-07-01
