@@ -1,0 +1,7 @@
+flask
+requests
+pandas
+flask_cors
+nltk
+textblob
+schedule
